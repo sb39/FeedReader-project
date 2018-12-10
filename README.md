@@ -3,7 +3,7 @@
 Feed Reader Testing, is a project that mainly trains a developer to know how a testing of a project in real world is done.
 Testing can also be known as Red-Green-Refactor, where you write code which fails first and then you debug and make it green.
 
-In this Testing Jasmine-2.1.2[] is used as a tester.
+In this Testing [Jasmine-2.1.2](https://github.com/jasmine/jasmine/releases/tag/v2.1.2) is used as a tester.
 
 # Running this application
    To run this application clone the repository ⏬
