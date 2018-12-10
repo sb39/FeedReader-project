@@ -12,7 +12,7 @@ In this Testing Jasmine-2.1.2[] is used as a tester.
    ``` 
    open `index.html` file 
    
-#important components covered
+# important components covered
 
 1. Red-Green-refactoring 
     a. test suites(`describe` calls):
