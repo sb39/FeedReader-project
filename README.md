@@ -8,7 +8,7 @@ In this Testing Jasmine-2.1.2[] is used as a tester.
 # Running this application
    To run this application clone the repository ⏬
    ```
-   $ git clone 
+   $ git clone https://github.com/sb39/FeedReader-project.git
    ``` 
    open `index.html` file 
    
